@@ -2,7 +2,7 @@
 
 ## 애플리케이션 사양
 1. bundle identifier ``io.dlwlrma.Millie``
-2. ios deployment targer ``17.5``
+2. ios deployment target ``17.5``
 3. language ``swift 5``
 
 ## 사용한 기술스택
